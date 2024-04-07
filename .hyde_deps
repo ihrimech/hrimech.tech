@@ -1,0 +1,23 @@
+!!python/unicode 'about.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',
+  !!python/unicode 'base.j2']
+!!python/unicode 'advanced/grouper.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',
+  !!python/unicode 'base.j2']
+!!python/unicode 'advanced/overview.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',
+  !!python/unicode 'base.j2']
+!!python/unicode 'advanced/sorter.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',
+  !!python/unicode 'base.j2']
+!!python/unicode 'advanced/tagger.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',
+  !!python/unicode 'base.j2']
+!!python/unicode 'contact.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',
+  !!python/unicode 'base.j2']
+!!python/unicode 'first-steps.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',
+  !!python/unicode 'base.j2']
+!!python/unicode 'index.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',
+  !!python/unicode 'base.j2']
+!!python/unicode 'media/css/style.css': []
+!!python/unicode 'profilage-visual-vm.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',
+  !!python/unicode 'base.j2']
+!!python/unicode 'scala-training.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',
+  !!python/unicode 'base.j2']
+!!python/unicode 'spark-training.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',
+  !!python/unicode 'base.j2']

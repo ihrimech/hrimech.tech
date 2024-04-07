@@ -48,6 +48,11 @@ ul.hidden {
     display: none;
 }
 
+article p img {
+    max-width: 90%;
+    max-height: 70%;
+}
+
 header {
     position: absolute;
     top: 120px;

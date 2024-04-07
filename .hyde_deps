@@ -15,8 +15,6 @@
 !!python/unicode 'index.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',
   !!python/unicode 'base.j2']
 !!python/unicode 'media/css/style.css': []
-!!python/unicode 'profilage-visual-vm.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',
-  !!python/unicode 'base.j2']
 !!python/unicode 'scala-training.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',
   !!python/unicode 'base.j2']
 !!python/unicode 'spark-training.html': [!!python/unicode 'macros.j2', !!python/unicode 'ga.j2',

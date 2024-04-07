@@ -1,3 +1,60 @@
+@media only screen and (max-width: 800px) {
+    body main {
+        width: 90%;
+        padding: 0 10px;
+    }
+    main header {
+        top: 20px;
+        left: 28px;
+        width: 100%;
+        position: unset;
+        display: block;
+    }
+    main header h1 {
+        font-size: 1.5em;
+    }
+    header p {
+        display: none;
+    }
+    main nav {
+        position: unset;
+        display: block;
+        padding-top: 15px;
+    }
+    main nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+      
+    main nav li {
+        float: left;
+    }
+      
+    main nav ul li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 6px;
+        text-decoration: none;
+        font-size: 1em;
+    }
+      
+    main nav li a:hover {
+        background-color: #333333;
+    }
+
+    body article#content{
+        width: 100%;
+        position: unset;
+        margin-top: 100px;
+        text-align: justify;
+    }
+    body article#content h1 {
+        font-size: 1em;
+    }
+}
+
 * {
     margin: 0;
     padding: 0;

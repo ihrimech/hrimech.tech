@@ -1,9 +1,15 @@
-{# Use base.j2 template as a base and only provide values for placeholders
-   in this file.
-#}
-{% extends "base.j2" %}
+---
+extends: base.j2
+title: Scala Training (FR and EN)
+---
+{# In-file metadata. Supplements data from the site's configuration file 
+   and node (folder) level data in "meta.yaml" files.
 
-{# Markdown main content block. #}
+   Use the AutoExtendPlugin to extend templates from metadata. In this
+   case the metadata and "extends" statement has to be on the top of the
+   file.
+#}
+
 {% block content %}
 
 Hello/ Bonjour ᕕ( ᐛ )ᕗ
